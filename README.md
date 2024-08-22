@@ -2,19 +2,6 @@
 
 This is the backend service for the Portfolio project, built using Django and Django REST Framework. It handles data management, user authentication, and provides a RESTful API for the frontend to interact with.
 
-## Table of Contents
-
-- [Features](#features)
-- [Requirements](#requirements)
-- [Installation](#installation)
-- [Environment Variables](#environment-variables)
-- [Usage](#usage)
-- [API Endpoints](#api-endpoints)
-- [Authentication](#authentication)
-- [Deployment](#deployment)
-- [Contributing](#contributing)
-- [License](#license)
-
 ## Features
 
 - User authentication using JWT.

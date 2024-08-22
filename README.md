@@ -21,5 +21,5 @@ This is the backend service for the Portfolio project, built using Django and Dj
 1. **Clone the repository:**
 
    ```bash
-   git clone [https://github.com/your-username/portfolio-backend.git](https://github.com/Hansil-Chapadiya/PortFolio-Backend-GitHub.git)
+   git clone https://github.com/your-username/portfolio-backend.git
    cd portfolio-backend
